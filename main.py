@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
                 if codes:
                     rom_data["game_genie_codes"] = [
-                        {"code": code, "description": description}
+                        {"code": code, "description": description} #, "is_active": False
                         for code, description in codes
                     ]
 
