@@ -1,3 +1,4 @@
 myenv/
 __pycache__/
 .ropeproject
+rom_database.json
